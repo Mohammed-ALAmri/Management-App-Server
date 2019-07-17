@@ -1,0 +1,47 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Mohammed Alamri",
+      "salary": 0,
+      "birthdate": "1997-05-07",
+      "isDev": true,
+      "projects": [
+        {
+          "id": 1,
+          "name": "potato",
+          "startDate": "2019-01-01"
+        },
+        {
+          "id": 2,
+          "name": "potato1",
+          "startDate": "2019-06-02"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Ahmad Mahmod",
+      "salary": 50000,
+      "birthdate": "1980-05-07",
+      "isDev": true,
+      "projects": [
+        {
+          "id": 1,
+          "name": "potato4",
+          "startDate": "2019-11-11"
+        },
+        {
+          "id": 2,
+          "name": "potato5",
+          "startDate": "2020-05-11"
+        },
+        {
+          "id": 3,
+          "name": "potato7",
+          "startDate": "2021-02-02"
+        }
+      ]
+    }
+  ]
+}
